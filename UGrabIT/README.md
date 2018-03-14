@@ -8,14 +8,14 @@
 
 The following **required** functionality is completed:
 
--[ ] User can register and log in with an email ending in “.edu”.
--[ ] Users can create a profile with username, school, and picture required. Optional are a short bio, payment preference ie. “CashApp and Venmo” and ID, and previous items let go.
--[ ] User can upload pictures for profile and items for trade.
--[ ] Items put up for trade can be set to, grab it now (for free), trade fro another item, or sold outright with a posted or discussed amount.
--[ ] Location of seller can be showed as an 2 potential mile radius of location until buyer is confirmed before showing exact location. Or seller can set meet point at verified public locations.
--[ ] Users can send pre written short messages to communicate when interested in an item and can choose to send contact information when buyer is confirmed.
--[ ] User can upload item to specified category ie. “furniture” or “electronics”
--[ ] Items can be looked for in a search bar to populate a list.
+- [ ] User can register and log in with an email ending in “.edu”.
+- [ ] Users can create a profile with username, school, and picture required. Optional are a short bio, payment preference ie. “CashApp and Venmo” and ID, and previous items let go.
+- [ ] User can upload pictures for profile and items for trade.
+- [ ] Items put up for trade can be set to, grab it now (for free), trade fro another item, or sold outright with a posted or discussed amount.
+- [ ] Location of seller can be showed as an 2 potential mile radius of location until buyer is confirmed before showing exact location. Or seller can set meet point at verified public locations.
+- [ ] Users can send pre written short messages to communicate when interested in an item and can choose to send contact information when buyer is confirmed.
+- [ ] User can upload item to specified category ie. “furniture” or “electronics”
+- [ ] Items can be looked for in a search bar to populate a list.
 
 
 
@@ -25,8 +25,8 @@ The following **stretch** features MIGHT be implemented:
 
 - [ ] Users can save items to potentially look at later
 - [ ] Items for trade can be auctioned off and be given “grab by” date and times.
--[ ] Items can be chosen to show for specific schools.
--[ ] User will have a rate, review, and report system for buyers and sellers.
+- [ ] Items can be chosen to show for specific schools.
+- [ ] User will have a rate, review, and report system for buyers and sellers.
 
 
 
