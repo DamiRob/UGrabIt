@@ -1,7 +1,7 @@
 # UGrabIt
-# Group Project - *GoGrabIt*
+# Group Project - *UGrabIt*
 
-**GoGrabIt** Is a trade and give away app intended for college students. College students often move in and out of dorms, apartments, and homes. For those who have things they no longer want they can sell or trade items with those looking for new furnishings. Must use a student registered email to sign up for the app and identify current school.
+**UGrabIt** Is a trade and give away app intended for college students. College students often move in and out of dorms, apartments, and homes. For those who have things they no longer want they can sell or trade items with those looking for new furnishings. Must use a student registered email to sign up for the app and identify current school.
 
 
 ## User Stories
@@ -9,7 +9,7 @@
 The following **required** functionality is completed:
 
 - [ ] User can register and log in with an email ending in “.edu”.
-- [ ] Users can create a profile with username, school, and picture required. Optional are a short bio, payment preference ie. “CashApp and Venmo” and ID, and previous items let go.
+- [ ] Users can create a profile with a username, school, and profile picture required. Optional are a short bio, payment preference ie. “CashApp and Venmo” and ID, and previous items let go.
 - [ ] User can upload pictures for profile and items for trade.
 - [ ] Items put up for trade can be set to, grab it now (for free), trade fro another item, or sold outright with a posted or discussed amount.
 - [ ] Location of seller can be showed as an 2 potential mile radius of location until buyer is confirmed before showing exact location. Or seller can set meet point at verified public locations.
