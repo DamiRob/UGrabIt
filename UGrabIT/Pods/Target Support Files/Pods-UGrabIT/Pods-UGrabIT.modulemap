@@ -1,0 +1,6 @@
+framework module Pods_UGrabIT {
+  umbrella header "Pods-UGrabIT-umbrella.h"
+
+  export *
+  module * { export * }
+}

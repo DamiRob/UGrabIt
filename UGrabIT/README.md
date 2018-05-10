@@ -1,4 +1,3 @@
-# UGrabIt
 # Group Project - *GoGrabIt*
 
 **GoGrabIt** Is a trade and give away app intended for college students. College students often move in and out of dorms, apartments, and homes. For those who have things they no longer want they can sell or trade items with those looking for new furnishings. Must use a student registered email to sign up for the app and identify current school.
